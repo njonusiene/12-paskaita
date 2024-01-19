@@ -1,0 +1,197 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Ultra HD 4K Smart TV ",
+            "category": "electronics",
+            "price": 4000,
+            "description": "Expierence stunning 4K visuals with our Ultra HD Smart TV, featuring srate-of-the-art technology and seamless connectivity."
+        },
+        {
+            "id": 2,
+            "title": "Bluetooth Noise-Canceling Headphones",
+            "category": "electronics",
+            "price": 2000,
+            "description": "Immerse yourself in music with our BLuetooth Noise-Canceling Headphones, offering exeptional sound quality and comfort."
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter",
+            "category": "books",
+            "price": 1000,
+            "description": "This is first hand write script, straight from J.K. Rowling table."
+        },
+        {
+            "id": 4,
+            "title": "Running matt",
+            "category": "fitness",
+            "price": 3000,
+            "description": "You do not have run by your self, it runs for You and it will stays fit for You."
+        },
+        {
+            "id": 5,
+            "title": "Hoola-hoop",
+            "category": "fitness",
+            "price": 4000,
+            "description": "It spins around You and have 8 different led light colors, so it is not only good for You belly but good for Your mental health."
+        },
+        {
+            "id": 6,
+            "title": "Rose seeds",
+            "category": "gardening",
+            "price": 5000,
+            "description": "You will get one pack of amazing and self-growing rose seeds, Your mom will like them."
+        },
+        {
+            "id": 7,
+            "title": "Sofa",
+            "category": "furniture",
+            "price": 6000,
+            "description": "Size 140x60, no sleeping function, You can choose You own color from color palette, natural matereal."
+        },
+        {
+            "id": 8,
+            "title": "Table",
+            "category": "furniture",
+            "price": 7000,
+            "description": "Size 140x140x80, no growing function, You can choose You own color from color palette, oak matereal with real cristlas straight from Swiss alps."
+        },
+        {
+            "id": 9,
+            "title": "Gardens bag",
+            "category": "gardening",
+            "price": 1000,
+            "description": "You can handel all your gardening tool around Your waist, and You will never have to forget something."
+        },
+        {
+            "id": 10,
+            "title": "Mikė pūkuotukas",
+            "category": "books",
+            "price": 2000,
+            "description": "This is first hand write script, whith authors pencil corections."
+        }
+    ],
+ 
+    "reviews": [
+        {
+            "id": 1,
+            "name": "Robert Pattison",
+            "rating": 3,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 1
+        },
+        {
+            "id": 2,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 1
+        },
+        {
+            "id": 3,
+            "name": "John Doe",
+            "rating": 5,
+            "title": "Great TV!",
+            "comment": "The TV exceeded my expectations. Fantastic image quality and features!",
+            "productId": 1
+        },
+        {
+            "id": 4,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 2
+        },
+        {
+            "id": 5,
+            "name": "Alice Smith",
+            "rating": 4,
+            "title": "Impressive Headphones",
+            "comment": "The Bluetooth Noise-Canceling Headphones provide excellent sound quality and comfort. Really satisfied!",
+            "productId": 2
+        },
+        {
+            "id": 6,
+            "name": "Eva Green",
+            "rating": 3,
+            "title": "Disappointing Book",
+            "comment": "I expected more from the Harry Potter script. Not as exciting as I thought.",
+            "productId": 3
+        },
+        {
+            "id": 7,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 4
+        },
+        {
+            "id": 8,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 5
+        },
+        {
+            "id": 9,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 6
+        },
+        {
+            "id": 10,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 7
+        },
+        {
+            "id": 11,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 7
+        },
+        {
+            "id": 12,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 8
+        },
+        {
+            "id": 13,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 9
+        },
+        {
+            "id": 14,
+            "name": "Jude Law",
+            "rating": 4,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 10
+        },
+        {
+            "id": 15,
+            "name": "Ms. Dautffauje",
+            "rating": 5,
+            "title": "Good, but exected better imagine quality",
+            "comment": "The TV is good overall, but I was expecting sharper image quality for the price",
+            "productId": 2
+        }
+    ]
+}
